@@ -1,0 +1,12 @@
+#activity {
+    font-size: 20px;
+    padding: 10px;
+
+}
+#uniqButton:hover {
+    background-color: #d82b39;
+  }
+  #uniqButton {
+    text-align: center;
+    border-radius: 15px;
+  }

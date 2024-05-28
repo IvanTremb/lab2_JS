@@ -1,0 +1,1 @@
+document.getElementById("uniqButton").addEventListener("click", getRandomActivity); // запускаем нашу функцию "getRandomActivity" по клику на кнопку
